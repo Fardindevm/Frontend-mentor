@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.ChangedDiv > p, .value {
+  font-size: 13px;
+  color: #8c939d;
+}
+
+
+.value { 
+  background-color: #262d37;
+  padding: 2px;
+  margin-top: 4px;
+  width: 159px;
+  border-radius: 30px;
+  color: #ed995c; 
+
+}
+
+.valueDiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 11px;
+}
+
+.ChangedDiv > h4 {
+  margin-bottom: 13px;
+  margin-top: 5px
+}
